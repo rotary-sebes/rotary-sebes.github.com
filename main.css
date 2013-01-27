@@ -1,0 +1,8 @@
+﻿body {
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 20px; text-align:center;
+	text-shadow: 2px 2px 4px #448;
+	color:#227/*midnightblue*/
+}
+a {text-decoration:none; color:inherit}
+a:hover {color:#000044}
